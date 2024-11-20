@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.dll
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.pdb
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.csproj.AssemblyReference.cache
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.csproj.CoreCompileInputs.cache
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.dll
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.pdb
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.dll.config
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.GeneratedMSBuildEditorConfig.editorconfig

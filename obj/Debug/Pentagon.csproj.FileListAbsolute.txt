@@ -1,0 +1,28 @@
+D:\!Projects\Pentagon\Pentagon\obj\Debug\Pentagon.csproj.CoreCompileInputs.cache
+D:\!Projects\Pentagon\Pentagon\obj\Debug\Pentagon.csproj.CopyComplete
+D:\!Projects\Pentagon\Pentagon\obj\Debug\Pentagon.dll
+D:\!Projects\Pentagon\Pentagon\obj\Debug\Pentagon.pdb
+D:\!Projects\Pentagon\Pentagon\obj\Debug\Pentagon.csproj.AssemblyReference.cache
+E:\Project\Pentagon\obj\Debug\Pentagon.csproj.CoreCompileInputs.cache
+E:\Project\Pentagon\obj\Debug\Pentagon.csproj.CopyComplete
+E:\Project\Pentagon\obj\Debug\Pentagon.dll
+E:\Project\Pentagon\obj\Debug\Pentagon.pdb
+E:\Project\Pentagon\obj\Debug\Pentagon.csproj.AssemblyReference.cache
+C:\Users\Ninka\Documents\Daydream Client\Pentagon\obj\Debug\Pentagon.csproj.CoreCompileInputs.cache
+C:\Users\Ninka\Documents\Daydream Client\Pentagon\obj\Debug\Pentagon.csproj.AssemblyReference.cache
+C:\Users\Ninka\Documents\Daydream Client\Pentagon\obj\Debug\Daydream.dll
+C:\Users\Ninka\Documents\Daydream Client\Pentagon\obj\Debug\Daydream.pdb
+C:\Users\Mason\Documents\Daydream Client\Pentagon\obj\Debug\Pentagon.csproj.CoreCompileInputs.cache
+C:\Users\Mason\Documents\Daydream Client\Pentagon\obj\Debug\Pentagon.csproj.AssemblyReference.cache
+C:\Users\Mason\Documents\Daydream Client\Pentagon\obj\Debug\Daydream.dll
+C:\Users\Mason\Documents\Daydream Client\Pentagon\obj\Debug\Daydream.pdb
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Pentagon.csproj.AssemblyReference.cache
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Pentagon.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.dll
+D:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.pdb
+E:\SteamLibrary\steamapps\common\VRChat\Mods\Daydream.dll
+E:\SteamLibrary\steamapps\common\VRChat\Mods\Daydream.pdb
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.dll
+C:\Program Files (x86)\Steam\steamapps\common\VRChat\Mods\Daydream.pdb
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.dll
+D:\!Projects\PENTAGON FINAL\Pentagon\obj\Debug\Daydream.pdb
